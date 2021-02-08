@@ -31,3 +31,23 @@ p.more {
 }
 
 /* Write your CSS here. */
+
+
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: whitesmoke;
+  color: #464646;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  padding: 0px;
+}
+
+
+ul > li {
+  list-style: none;
+}
